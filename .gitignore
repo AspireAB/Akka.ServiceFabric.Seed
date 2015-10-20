@@ -196,4 +196,4 @@ FakesAssemblies/
 *.opt
 
 # NuGet
-.nuget/NuGet.exe
+!.nuget/NuGet.exe
